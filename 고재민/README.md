@@ -1,6 +1,6 @@
 # 🌱 고재민 ([Jaemin-kr](https://github.com/Jaemin-kr))
 
-### Week 01 (23.05.04.)
+### Week 01 (23.06.02.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1343">백준 1343번 : 폴리오미노</a> | <a href="-">🔗</a> |

@@ -1,4 +1,4 @@
-# 🌱 이상혁 ([sanghyuk2](https://github.com/sanghyuk2))
+# 🌱 고재민 ([Jaemin-kr](https://github.com/Jaemin-kr))
 
 ### Week 01 (23.05.04.)
 | Category | Title | Link |

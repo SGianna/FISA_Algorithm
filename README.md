@@ -8,7 +8,7 @@
 |  | 고재민 | 이예정 | 차은영 | 박찬휘 | 유영민 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | GitHub | [![Jaemin-kr](https://github.com/Jaemin-kr.png?width=200px)](https://github.com/Jaemin-kr) | [![SGianna](https://github.com/SGianna.png?width=200px)](https://github.com/SGianna) | [![2un-light](https://github.com/2un-light.png?width=200px)](https://github.com/2un-light) |[![Park-ChanHwi](https://github.com/Park-ChanHwi.png?width=200px)](https://github.com/Park-ChanHwi) |[![YOUNGMIN-YU](https://github.com/YOUNGMIN-YU.png?width=200px)](https://github.com/YOUNGMIN-YU)
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white">
+| Language | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ## 📍 Progress Record
 |   주차    |      날짜       | 고재민 | 이예정 | 차은영 | 박찬휘 | 유영민 |

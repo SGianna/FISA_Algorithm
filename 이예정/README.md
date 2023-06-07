@@ -1,4 +1,4 @@
-# 이예정 ([SGianna](https://github.com/SGianna))
+# :dart: 이예정 ([SGianna](https://github.com/SGianna))
 
 ### Week 01 (23.06.02.)
 | Category | Title | Link |

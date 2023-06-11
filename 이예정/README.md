@@ -1,6 +1,6 @@
 # 🎯이예정 ([SGianna](https://github.com/SGianna))
 
-### Week 01 (23.06.02.)
+### Week 01 (23.06.02. - 23.06.07.)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 그리디 (Greedy) | <a href="https://www.acmicpc.net/problem/1343">백준 1343번 : 폴리오미노</a> | <a href="https://github.com/SGianna/FISA_Algorithm/blob/master/%EC%9D%B4%EC%98%88%EC%A0%95/Greedy/BOJ_1343_%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8.py">🔗</a> |
